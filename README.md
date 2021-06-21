@@ -1,10 +1,10 @@
 
 
-- 👋 Hi, I’m RahulAgrawal
+- 👋 Hi, I’m Rahul Agrawal
 - 👀 I’m interested in C++, Python and Flutter for Mobile App Development
 - 🌱 I’m currently learning Flutter for web
 - “Bad architecture” means “Your code is badly organised” whereas “Complex architecture” means “My code is badly organised”
-- One More: A good programmer looks both ways before crossing a one-way street.
+-  One More: A good programmer looks both ways before crossing a one-way street.
 
 
 <!---
